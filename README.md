@@ -2,6 +2,14 @@ AgroNexus 🌱
 Project Overview
 AgroNexus is a web platform designed to bridge the gap between farmers and consumers by enabling direct transactions, thus ensuring fair pricing for farmers and fresh produce for consumers. This platform also provides farmers with expert agricultural guidance, weather updates, access to modern tools, and a unique solution-sharing forum. AgroNexus aims to empower the farming community, enhance sustainable agriculture, and bring joy to farmers globally.
 
+
+
+
+
+https://github.com/user-attachments/assets/b477ddfe-f70a-4552-8418-4f740ed8d47b
+
+
+
 Technologies Used
 Frontend: React.js, CSS, HTML
 Backend: Node.js, Express.js
