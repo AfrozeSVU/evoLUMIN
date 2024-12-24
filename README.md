@@ -24,13 +24,7 @@ Deployment: Vercel (Frontend), Heroku (Backend)
 Project Description
 Agriculture remains the backbone of many economies but faces challenges like middlemen exploitation, crop diseases, and limited access to advanced technology. AgroNexus addresses these by connecting farmers directly with consumers, providing an advisory network with agricultural scientists, and offering tools and resources to improve productivity and sustainability. Consumers benefit by accessing fresh, farm-direct products, while farmers gain a fair marketplace and reliable expert support.
 
-API References
-OpenWeather API
-
-Used for providing weather updates.
-OpenWeather API Documentation
-API Key Setup: Register at OpenWeather to obtain an API key.
-Google Translate API
+ 
 
 Powers multi-language support.
 Google Translate API Documentation
