@@ -1,5 +1,7 @@
 # AgroNexus 🌱
 
+** The Project Explanation Video link **: https://www.linkedin.com/posts/itsmeafroze_agronexus-agriculturetech-mernstack-activity-7277359463047553024-_ITH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAENr8y0BQ1gsKOEZOJTU1dJW1OPwsfdB8mU
+
 **Project Overview**
 
 AgroNexus is an innovative web platform designed to bridge the gap between farmers and consumers by enabling direct transactions, ensuring fair pricing for farmers, and delivering fresh produce to consumers. The platform provides farmers with expert agricultural guidance, real-time weather updates, access to modern farming tools, and a collaborative space for sharing solutions. AgroNexus aims to empower the global farming community, promote sustainable agricultural practices, and create positive change in the agricultural industry.
