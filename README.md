@@ -1,6 +1,14 @@
 # AgroNexus 🌱
 
-** The Project Explanation Video link **: https://www.linkedin.com/posts/itsmeafroze_agronexus-agriculturetech-mernstack-activity-7277359463047553024-_ITH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAENr8y0BQ1gsKOEZOJTU1dJW1OPwsfdB8mU
+
+**Demo Video**
+
+🌟 **Watch the AgroNexus Demo** 🌟  
+Experience the full capabilities of AgroNexus through this engaging demo video:  
+[**AgroNexus Demo Video**](https://drive.google.com/file/d/1rm7j75RjfAtnGoExsFaaqinnEcZM4Oqt/view?usp=sharing)  
+Don't miss out—see how AgroNexus is transforming agriculture!
+
+---
 
 **Project Overview**
 
@@ -27,6 +35,16 @@ AgroNexus is an innovative web platform designed to bridge the gap between farme
 
 Agriculture is a vital component of many global economies but faces numerous challenges, including middlemen exploitation, crop diseases, and limited access to advanced technology. AgroNexus addresses these issues by directly connecting farmers to consumers, offering expert advice from agricultural scientists, and providing modern tools and resources to enhance productivity and sustainability. Consumers benefit from fresh, farm-direct products, while farmers enjoy a fair marketplace, enhanced profitability, and reliable expert support.
 
+
+Why AgroNexus?
+Our mission is clear: AGRO (farmers) + NEXUS (connection) = A hub for resources, knowledge, tools, and market access.
+
+🌟 What AgroNexus Offers:
+📌 Agro Connect:A bridge between farmers and experts, enabling real-time problem-solving and knowledge sharing. 
+📌 Agro Market: Eliminates middlemen by directly connecting farmers with retailers for better pricing and profits. 
+📌Digital Tools: Tutorials and guides to boost digital literacy, empowering farmers to utilize online tools. 
+📌 Agro Tools:Affordable rentals of advanced farming equipment for small to mid-scale farmers. 
+📌 Voice & Translation Support: A voice-assisted interface with translation capabilities ensures inclusivity for all, even those who are illiterate.
 ---
 
 **API References**
@@ -57,14 +75,6 @@ Agriculture is a vital component of many global economies but faces numerous cha
 
 ---
 
-**Demo Video**
-
-🌟 **Watch the AgroNexus Demo** 🌟  
-Experience the full capabilities of AgroNexus through this engaging demo video:  
-[**AgroNexus Demo Video**](https://drive.google.com/file/d/1rm7j75RjfAtnGoExsFaaqinnEcZM4Oqt/view?usp=sharing)  
-Don't miss out—see how AgroNexus is transforming agriculture!
-
----
 
 **Installation and Setup**
 
